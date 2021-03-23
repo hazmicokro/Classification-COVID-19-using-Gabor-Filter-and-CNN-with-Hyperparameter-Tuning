@@ -13,3 +13,5 @@
 **Format Data** : Image Type ".png" \
 **Total Data** : 2481  \
 **Categories** : 2 Class = COVID (1) , Non-COVID (0))
+
+---
