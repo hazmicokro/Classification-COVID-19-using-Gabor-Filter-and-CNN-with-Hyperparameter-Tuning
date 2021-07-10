@@ -1,9 +1,10 @@
-# Diagnosis COVID-19 using CNN with Flask Web Application
+# COVID-19 Classification using Gabor Filter and CNN with Hyperparameter Tuning
 
-**PORTOFOLIO | Diagnosis COVID-19 using CNN with Flask Web Application** \
+**PORTOFOLIO | COVID-19 Classification using Gabor Filter and CNN with Hyperparameter Tuning** \
 **Tema** : Computer Vision | Data Science \
 **Author** : Mochammad Hazmi Cokro Mandiri \
-**Judul** : **Diagnosis COVID-19 using Convolutional Neural Network with Flask Web Application** 
+**Judul [EN]** : **COVID-19 Classification using Gabor Filter and CNN with Hyperparameter Tuning** \
+**Judul [ID]** : **Klasifikasi COVID-19 menggunakan Filter Gabor dan CNN dengan Hyperparameter Tuning** 
 
 
 ---
