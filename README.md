@@ -2,10 +2,13 @@
 
 **PORTOFOLIO | COVID-19 Classification using Gabor Filter and CNN with Hyperparameter Tuning** \
 **Tema** : Computer Vision | Data Science \
-**Author** : Mochammad Hazmi Cokro Mandiri \
-**Judul [EN]** : **COVID-19 Classification using Gabor Filter and CNN with Hyperparameter Tuning** \
-**Judul [ID]** : **Klasifikasi COVID-19 menggunakan Filter Gabor dan CNN dengan Hyperparameter Tuning** 
+**Author** : Mochammad Hazmi Cokro Mandiri 
 
+---
+
+**Judul [EN]** : **COVID-19 Classification using Gabor Filter and CNN with Hyperparameter Tuning** \
+**Judul [ID]** : **Klasifikasi COVID-19 menggunakan Filter Gabor dan CNN dengan Hyperparameter Tuning** \
+**Publication** : **https://doi.org/10.26760/elkomika.v9i3.493** 
 
 ---
 
