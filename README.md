@@ -7,7 +7,7 @@
 ---
 
 **Judul [EN]** : **Classification COVID-19 using Gabor Filter and CNN with Hyperparameter Tuning** \
-**Judul [ID]** : **Klasifikasi COVID-19 menggunakan Filter Gabor dan CNN dengan Hyperparameter Tuning** \
+**Judul [ID]** : **Klasifikasi COVID-19 menggunakan Filter Gabor dan CNN dengan Hyperparameter Tuning** 
 <!-- **Publication** : **https://doi.org/10.26760/elkomika.v9i3.493**  -->
 
 ---
